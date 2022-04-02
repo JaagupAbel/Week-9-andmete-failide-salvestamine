@@ -1,0 +1,15 @@
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\bin\Debug\net5.0\MyWishList.exe
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\bin\Debug\net5.0\MyWishList.deps.json
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\bin\Debug\net5.0\MyWishList.runtimeconfig.json
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\bin\Debug\net5.0\MyWishList.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\bin\Debug\net5.0\MyWishList.dll
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\bin\Debug\net5.0\ref\MyWishList.dll
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\bin\Debug\net5.0\MyWishList.pdb
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\obj\Debug\net5.0\MyWishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\obj\Debug\net5.0\MyWishList.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\obj\Debug\net5.0\MyWishList.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\obj\Debug\net5.0\MyWishList.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\obj\Debug\net5.0\MyWishList.dll
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\obj\Debug\net5.0\ref\MyWishList.dll
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\obj\Debug\net5.0\MyWishList.pdb
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\MyWishList\obj\Debug\net5.0\MyWishList.genruntimeconfig.cache

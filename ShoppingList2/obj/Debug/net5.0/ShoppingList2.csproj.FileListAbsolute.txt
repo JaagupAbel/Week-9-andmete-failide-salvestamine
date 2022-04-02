@@ -1,0 +1,15 @@
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\bin\Debug\net5.0\ShoppingList2.exe
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\bin\Debug\net5.0\ShoppingList2.deps.json
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\bin\Debug\net5.0\ShoppingList2.runtimeconfig.json
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\bin\Debug\net5.0\ShoppingList2.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\bin\Debug\net5.0\ShoppingList2.dll
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\bin\Debug\net5.0\ref\ShoppingList2.dll
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\bin\Debug\net5.0\ShoppingList2.pdb
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\obj\Debug\net5.0\ShoppingList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\obj\Debug\net5.0\ShoppingList2.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\obj\Debug\net5.0\ShoppingList2.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\obj\Debug\net5.0\ShoppingList2.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\obj\Debug\net5.0\ShoppingList2.dll
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\obj\Debug\net5.0\ref\ShoppingList2.dll
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\obj\Debug\net5.0\ShoppingList2.pdb
+C:\Users\jaagu\source\repos\DirectoriesAndFiles\ShoppingList2\obj\Debug\net5.0\ShoppingList2.genruntimeconfig.cache
